@@ -1,6 +1,6 @@
 def using_include(array, element)
 array_exp = ["booty cheeks", "coding is life", "lol"]
-array_exp.include? "booty cheeks"
+array_exp.include? "booty cheek"
 end
 
 def using_sort(array)
